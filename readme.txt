@@ -1,2 +1,2 @@
-git is version control ststem
+git is distributed version control ststem
 git is free software
